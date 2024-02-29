@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
-    const heroesJson = "storage/json/dc.json";
+    const heroesJson = "storage/json/marvel.json";
 
-    
     function getHeroes() {
         return fetch(heroesJson)
             .then(response => {
@@ -13,15 +12,15 @@ document.addEventListener("DOMContentLoaded", function () {
             .catch(error => console.error("Error fetching heroes:", error));
     }
 
-    
     function displayHeroes(heroes) {
         const gridContainer = document.getElementById("grid-container");
 
-        heroes.forEach(hero => {
+        heroes.forEach((hero, index) => {
             const gridItem = document.createElement("div");
             gridItem.classList.add("grid-item");
 
-            
+            const modalId = `Irventana${index + 1}`;
+
             gridItem.innerHTML = `
                 <div class="foto">
                     <img src="${hero.picture}" alt="${hero.name}">
@@ -29,7 +28,14 @@ document.addEventListener("DOMContentLoaded", function () {
                 <div class="detalles">
                     <p class="titulo">${hero.name}</p>
                     <div class="boton-ver">
-                    <a href="#Irventana1" class="text-boton"><div>Ver</div></a>
+                        <a href="#${modalId}" class="text-boton"><div>Ver</div></a>
+                    </div>
+                </div>
+                <div id="${modalId}" class="modal">
+                    <div class="ventana">
+                        <div class="foto-det"><img src="${hero.picture}" alt="${hero.name}"></div>
+                        <div class="cont-det" id="detallesContainer"></div>
+                        <a href="#cerrar" class="cerrar"><b style="color: black;">X</b></a>
                     </div>
                 </div>
             `;
@@ -37,24 +43,8 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     }
 
-    function displayDetalles(heroes) {
-        const detallesContainer = document.getElementById(id="detallesContainer");
-
-        heroes.forEach(hero => {
-            const detallesItem = document.createElement("div");
-            detallesItem.classList.add("detalles-item");
-
-            
-            detallesItem.innerHTML = `
-                <span class="titulo-det">${hero.name}</span>
-                <span class="titulo-det">${hero.about}</span>
-            `;
-            detallesContainer.appendChild(detallesItem);
-        });
-    }
-
-
-    getHeroes().then(displayDetalles);
     getHeroes().then(displayHeroes);
 });
+
+
 

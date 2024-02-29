@@ -60,10 +60,10 @@ header{
     box-shadow: 5px 5px 10px 2px;
 }
 
-.grid-item:hover{ 
+/* .grid-item:hover{ 
     filter: opacy(0.9);
     transform: scale(1.04);
-}
+} */
 
 .foto img{
     background-size: cover;
