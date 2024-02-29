@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    const heroesJson = "storage/json/heroes.json";
+    const heroesJson = "storage/json/marvel.json";
 
     
     function getHeroes() {
