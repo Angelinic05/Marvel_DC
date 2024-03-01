@@ -20,7 +20,7 @@ Este proyecto consiste en una galería de héroes, donde los usuarios pueden exp
 - `.modal`, `.ventana1`, `.ventana2`, `.cerrar1`, y `.cerrar2`: Estilos para el modal que muestra información detallada sobre los héroes.
 - `.foto`, `.foto-det`, `.detalles`, `.boton-ver`, `.titulo`, `.titulo-det`, `.titulo-det2`, `.cont-det`, y `.text-boton`: Estilos para elementos específicos dentro del modal y la galería.
 
-#### Funcionalidad del `main_mar.js`:
+#### Funcionalidad del `javascript`:
 
 - **Obtención de Datos:** Los archivos `marvel.json`  y `dc.json` contiene información sobre los héroes de Marvel, como su nombre, descripción y URL de la imagen. El JavaScript carga estos datos y los presenta en la página.
 - **Visualización de Héroes:** Los datos de los héroes se presentan en tarjetas dentro de la galería.
