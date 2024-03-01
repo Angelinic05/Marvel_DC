@@ -2,62 +2,57 @@
 {
     "id": "5d86371f1efebc31def272e2",
     "about": "Ipsum duis incididunt ullamco tempor. Amet incididunt Lorem consequat labore culpa. Pariatur amet veniam reprehenderit sunt laborum excepteur. Labore eu ut ut Lorem labore aliqua quis ex elit nulla in incididunt commodo aliquip. Velit excepteur eiusmod Lorem esse officia. Irure aliquip Lorem fugiat voluptate dolor duis consectetur aliquip pariatur tempor reprehenderit deserunt.",
-    "picture": "storage/images/marvel/iron-man.jpg",
+    "picture": "storage/images/dc/aquaman.jpg",
 "squarePic": "https://dam.smashmexico.com.mx/wp-content/uploads/2018/06/27181227/ironman_portada2.jpg",
-    "name": "Iron Man"
+    "name": "Aquaman"
 },
 {
     "id": "5d86371f2343e37870b91ef1",
     "about": "Mollit officia ad excepteur anim proident incididunt eiusmod mollit consectetur id sit velit. Laborum ut magna officia qui laboris eiusmod do culpa. Culpa dolor officia velit cillum culpa deserunt cupidatat cillum ipsum laborum.",
-    "picture": "storage/images/marvel/bruce-banner.jpg",
+    "picture": "storage/images/dc/batman.jpg",
 "squarePic": "https://bolavip.com/__export/1557252167649/sites/bolavip/img/2019/05/07/hulk_crop1557252167265.jpg_1693159006.jpg",
-    "name": "Hulk"
+    "name": "Batman"
 },
 {
     "id": "5d86371f25a058e5b1c8a65e",
     "about": "Laboris est duis eiusmod adipisicing cillum ut sit ea Lorem non laboris quis Lorem. Est culpa esse aliqua non labore dolor esse labore nulla mollit. Nostrud amet est quis adipisicing dolor. Labore veniam elit veniam non ad ex consequat excepteur eiusmod. Minim cupidatat velit Lorem culpa quis consequat incididunt qui amet incididunt pariatur ex aliquip aliqua. Magna ex elit in aliquip minim eu ut ut fugiat ullamco deserunt adipisicing cillum.",
-    "picture": "storage/images/marvel/capitan-america.jpg",
-    "name": "Captain America"
+    "picture": "storage/images/dc/dr-fate.jpg",
+    "name": "Dr-fate"
 },
 {
     "id": "5d86371f9f80b591f499df32",
     "about": "Ipsum tempor sunt Lorem est. Fugiat nisi velit veniam labore et ullamco minim adipisicing do culpa. Cillum voluptate reprehenderit aute consectetur.",
-    "picture": "storage/images/marvel/dead-pool.jpg",
+    "picture": "storage/images/dc/flash.jpg",
 "squarePic": "https://img.chilango.com/2018/05/quien-es-capitan-marvel.jpg",
-    "name": "Dead Pool"
+    "name": "Flash"
 },
 {
     "id": "5d86371f233c9f2425f16916",
     "about": "Deserunt voluptate aliquip ex dolor Lorem exercitation aliqua nisi fugiat aliquip sunt non. Eu cillum enim velit exercitation officia proident exercitation ipsum exercitation Lorem nulla do. Minim sint dolor nostrud ipsum laborum. Velit ea ad ad consectetur nisi Lorem laborum officia esse. Do eu incididunt eiusmod voluptate excepteur consequat ipsum ad. Quis veniam exercitation eiusmod amet non non eu aliquip quis ea. Tempor deserunt nulla adipisicing qui fugiat ipsum labore duis et ea consectetur.",
-    "picture": "storage/images/marvel/doctor-stranger.jpg",
+    "picture": "storage/images/dc/flecha-verde.jpg",
 "squarePic": "https://wipy.tv/wp-content/uploads/2019/07/filtran-el-tr%C3%A1iler-de-%E2%80%98Black-Widow%E2%80%99.jpg",
-    "name": "doctor stranger"
+    "name": "Flecha-verde"
 },
 {
     "id": "5d86371f97c29d020f1e1f6d",
     "about": "Esse magna Lorem ipsum incididunt sit. Enim eiusmod proident in adipisicing anim excepteur laborum magna aliqua adipisicing ad qui aliqua. Eiusmod enim ullamco laboris adipisicing tempor sint labore. Exercitation cupidatat incididunt nostrud velit nisi aute eu ex pariatur deserunt mollit. Deserunt nisi enim irure elit. Aute amet amet consequat laborum dolor sint anim Lorem id fugiat commodo cupidatat ad. Ipsum quis enim consectetur occaecat laboris esse.",
-    "picture": "storage/images/marvel/nebula.jpg",
+    "picture": "storage/images/dc/guason.jpg",
 "squarePic": "https://www.tooys.mx/pub/media/catalog/product/cache/89d4a95274a31fe8bdfcc437494b2c9e/f/a/falcon_marvel_gallery_5c4dc5df6c14d_-_copia.jpg",
-    "name": "nebula"
+    "name": "Guason"
 },
 {
     "id": "5d86371fd55e2e2a30fe1ccb",
     "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
-    "picture": "storage/images/marvel/spider-man.jpg",
+    "picture": "storage/images/dc/mujer-maravilla.jpg",
 "squarePic": "http://www.mundocinematografico.net/wp-content/uploads/2018/02/black-panther-marvel-cosas-felices.jpg",
-    "name": "spider man"
+    "name": "Mujer-maravilla"
 },
 {
     "id": "5d86371fd55e2e2a30fe1ccb1",
     "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
-    "picture": "storage/images/marvel/thanos.jpg",
+    "picture": "storage/images/dc/superman.jpg",
 "squarePic": "https://img-cdn.hipertextual.com/files/2019/09/hipertextual-filtracion-revela-que-doctor-strange-2-resucitara-dos-personajes-muertos-marvel-2019435911.jpg?strip=all&lossy=1&quality=57&resize=740%2C490&ssl=1",
-    "name": "thanos"
-}, {
-    "id": "5d86371fd55e2e2a30fe1ccb2",
-    "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
-    "picture": "storage/images/marvel/thor.jpg",
-"squarePic": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/28/15696592030335.jpg",
-    "name": "Thor"
+    "name": "Superman"
 }
+
 ]
